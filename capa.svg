@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2E4A30"/>
+      <stop offset="100%" stop-color="#16241A"/>
+    </linearGradient>
+    <pattern id="pontos" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#F5EFE6" fill-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1200" height="300" rx="16" fill="url(#fundo)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#pontos)"/>
+
+  <!-- Barras discretas (dados) -->
+  <g fill="#F5EFE6" fill-opacity="0.07">
+    <rect x="752" y="200" width="32" height="60" rx="4"/>
+    <rect x="812" y="185" width="32" height="75" rx="4"/>
+    <rect x="872" y="195" width="32" height="65" rx="4"/>
+    <rect x="932" y="175" width="32" height="85" rx="4"/>
+    <rect x="992" y="180" width="32" height="80" rx="4"/>
+    <rect x="1052" y="130" width="32" height="130" rx="4"/>
+    <rect x="1112" y="95" width="32" height="165" rx="4"/>
+  </g>
+
+  <!-- Linha de tendência: estável e depois o salto -->
+  <polyline points="768,222 828,216 888,220 948,208 1008,212 1068,150 1128,112"
+            fill="none" stroke="#C9895B" stroke-width="4"
+            stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#C9895B">
+    <circle cx="768" cy="222" r="5"/>
+    <circle cx="828" cy="216" r="5"/>
+    <circle cx="888" cy="220" r="5"/>
+    <circle cx="948" cy="208" r="5"/>
+    <circle cx="1008" cy="212" r="5"/>
+    <circle cx="1068" cy="150" r="5"/>
+    <circle cx="1128" cy="112" r="6"/>
+  </g>
+
+  <!-- Símbolo de código (web) -->
+  <text x="1136" y="64" text-anchor="end"
+        font-family="Consolas, 'Courier New', monospace" font-size="34"
+        font-weight="700" fill="#C9895B" fill-opacity="0.9">&lt;/&gt;</text>
+
+  <!-- Textos -->
+  <text x="64" y="126" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="56" font-weight="700" fill="#F5EFE6">Alice Eduarda</text>
+  <rect x="64" y="148" width="72" height="5" rx="2.5" fill="#C9895B"/>
+  <text x="64" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" fill="#D8CFC2">Dados &amp; Desenvolvimento Web</text>
+  <text x="64" y="238" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="20" fill="#A9B8A3">Análise e Desenvolvimento de Sistemas · Rio de Janeiro</text>
+</svg>
