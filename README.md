@@ -18,7 +18,7 @@ de olhar primeiro para o **problema do negócio** — e só depois para a ferram
 |---|---|---|
 | ⛽ | **[Custo de Combustível de Frota](https://github.com/aliceeduarda/custo-diesel-frota-anp)** | 231 mil coletas de preço de diesel da ANP, do SQL ao Power BI: onde e quando abastecer mais barato |
 | 🛒 | **[TechStore](https://github.com/aliceeduarda/TechStore-Ecommerce)** · [ver no ar](https://techstore-alice.infinityfreeapp.com) | E-commerce full-stack publicado online |
-| 📊 | **[TechStore — Análise de Vendas](https://github.com/aliceeduarda/Analise-vendas-techstore)** | Dashboard de vendas com modelo estrela e DAX |
+| 📊 | **[TechStore — Análise de Vendas](https://github.com/aliceeduarda/Analise-vendas-techstore)** | Dashboard de vendas com DAX |
 
 ---
 
