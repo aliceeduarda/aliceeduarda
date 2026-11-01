@@ -8,7 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNISUAM (conclusão e
 Gosto de transformar **dados em respostas** e **ideias em sistemas que funcionam**.
 
 Antes da tecnologia, trabalhei com **administração e logística**. Dessa experiência trouxe o hábito
-de olhar primeiro para o **problema do negócio** — e só depois para a ferramenta.
+de olhar primeiro para o **problema do negócio** e só depois para a ferramenta.
 
 ---
 
