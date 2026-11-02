@@ -5,7 +5,7 @@
 ### Olá! Eu sou a Alice Eduarda 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UNISUAM (conclusão em 2026), no Rio de Janeiro.
-Gosto de transformar **dados em respostas** e **ideias em sistemas que funcionam**.
+Gosto de transformar **dados em respostas** e **ideias em sistemas que funcionam.**
 
 Antes da tecnologia, trabalhei com **administração e logística**. Dessa experiência trouxe o hábito
 de olhar primeiro para o **problema do negócio** e só depois para a ferramenta.
